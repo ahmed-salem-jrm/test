@@ -1,0 +1,5 @@
+['remote "origin"']
+    url = https://dagshub.com/ahmed-salem-jrm/my-first-repo.dvc
+    auth = basic
+    user = ahmed-salem-jrm
+    password = 782200e2fe59f387b44d406de820115048438036
